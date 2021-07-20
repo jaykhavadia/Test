@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 naa majaa nahii aahyaa
 par aab maa jaa aah rahaa hai
+=======
+Its UP to date
+
+>>>>>>> TP
 
